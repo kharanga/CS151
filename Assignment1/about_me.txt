@@ -1,0 +1,6 @@
+Registered and preferred name: Khang Nguyen
+ID number: 013626431
+Major: Undergraduate Computer Science
+Preferred email: khang.d.nguyen@sjsu.edu
+Not a graduating senior nor repeating the class
+List of taken CS classes: CS46A, CS46B, CS146, CS47
