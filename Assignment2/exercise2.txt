@@ -1,0 +1,3 @@
+int is a prmitive type that use to store binary value of a integer, therefore it has less flexibility
+While Integer is a wrapper class for int data type, it give us more flexibility by allowing us to convert and manipulate int data
+Also since Integer is a class, it can call various built-in methods
